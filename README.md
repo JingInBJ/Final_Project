@@ -6,7 +6,7 @@ The first story is about three major countries in East Asia shows trend of birth
 
 # Data
 
-The first story 'China’s looming population crisis – Not alone in East Asia' is in eidting. Most of data come from [World Bank's open data](https://data.worldbank.org/).  
+The first story [China’s looming population crisis – Not alone in East Asia](https://jinginbj.github.io/Jing-Portfolio/) is in eidting. Most of data come from [World Bank's open data](https://data.worldbank.org/).  
 
 [Birth rates by countries](https://data.worldbank.org/indicator/SP.DYN.CBRT.IN)
 
