@@ -1,8 +1,10 @@
 # Jing-Portfolio
 
 This repository contains [Jing's data reports](https://jinginbj.github.io/Jing-Portfolio/) made during LEDE program at Columbia Uni J-school. 
+This is an independent project. 
 
-The first story is about three major countries in East Asia shows trend of birth rate decrease which indicates potential pressure on economy and social stability. 
+# Project introduction
+The first story is about three major countries in East Asia shows trend of birth rate decrease which indicates potential pressure on economy and social stability. China, as the one with largest population in this area, has been under more pressure than the two others if compared aging society structure and GDP per capita. 
 
 # Data
 
@@ -16,4 +18,13 @@ Most of data come from [World Bank's open data](https://data.worldbank.org/).
 
 [Survey：China's Working Women Less Keen on Childbearing](https://www.prnewswire.com/news-releases/zhaopin-report-found-chinas-working-women-less-keen-on-childbearing-300455793.html)
 
-(in update) 
+[Elder support ratio of China](http://data.stats.gov.cn/easyquery.htm?cn=C01) -- How many working-age citizens support one retired citizen. 
+
+# Process (As of 2019 Nov.21) 
+Data collection and cleaning -- Finished
+
+Visualization -- Chart1-Birth Rate in the past 30 years ( The most difficult one) is under coding. 
+
+Chart 2, 3, 4  to be started. 
+
+
