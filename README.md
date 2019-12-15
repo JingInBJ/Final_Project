@@ -20,11 +20,13 @@ Most of data come from [World Bank's open data](https://data.worldbank.org/).
 
 [Elder support ratio of China](http://data.stats.gov.cn/easyquery.htm?cn=C01) -- How many working-age citizens support one retired citizen. 
 
+China households' debt ratio data is in searching. 
+
 # Process (As of 2019 Nov.21) 
 Data collection and cleaning -- Finished
 
 Visualization -- Chart1-Birth Rate in the past 30 years ( The most difficult one) is under coding. 
 
-Chart 2, 3, 4  to be started. 
+Chart 2, 3, 4, 5 to be started with Datawrapper. 
 
 
